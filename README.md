@@ -1,4 +1,13 @@
-### Hi there 👋
+## About me
+
+Hello, my name is Eric Schaefer. I am a husband, father, grandfather, and software engineer living near Munich/Germany.
+
+## What I am doing
+
+I am developing software for all kinds of systems and tiers, always on the hunt for ways to become a better developer. I specialize in OOP with sprinkles of DDD and FP. Since the early 2000s, I am a firm proponent of Test Driven Development. When I am not developing software, I teach my fellow engineers.
+
+
+<!--[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericschaefer)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **ericschaefer/ericschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
