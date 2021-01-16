@@ -6,14 +6,17 @@ Hello, my name is Eric Schaefer. I am a husband, father, grandfather, and softwa
 
 I am developing software for all kinds of systems and tiers, always on the hunt for ways to become a better developer. I specialize in OOP with sprinkles of DDD and FP. Since the early 2000s, I am a firm proponent of Test Driven Development. When I am not developing software, I teach my fellow engineers.
 
-## Skills
+## Technologies I have worked with
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></p>
+Android &mdash; AWS &mdash; C &mdash; C++ &mdash; C# &mdash; CSS &mdash; Docker
+&mdash; .NET &mdash; git &mdash; HTML &mdash; Java &mdash; Jenkins &mdash; Kafka
+&mdash; Kubernetes &mdash; Linux &mdash; MySQL &mdash; NGINX &mdash; Oracle
+&mdash; PHP &mdash; PostgeSQL &mdash; Spring Boot &mdash; Symfony
 
 ## Find me at
 
-<p align="center">
-<a href="https://twitter.com/eric_schaefer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eric_schaefer" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/eric-alexander-schäfer-bb181a14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-alexander-schäfer-bb181a14" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8976" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8976" height="30" width="30" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/eric-alexander-sch%C3%A4fer-bb181a14/) &mdash;
+[Reddit](https://www.reddit.com/user/eric_schaefer) &mdash;
+[Stack Overflow](https://stackoverflow.com/users/8976/ericschaefer) &mdash;
+[Twitter](https://twitter.com/Eric_Schaefer) &mdash;
+[Xing](https://www.xing.com/profile/EricAlexander_Schaefer)
