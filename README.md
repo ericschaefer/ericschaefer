@@ -16,7 +16,7 @@ Android &mdash; AWS &mdash; C &mdash; C++ &mdash; C# &mdash; CSS &mdash; Docker
 ## Find me at
 
 [LinkedIn](https://www.linkedin.com/in/eric-alexander-sch%C3%A4fer-bb181a14/) &mdash;
-[Reddit](https://www.reddit.com/user/eric_van_tall) &mdash;
+[Reddit](https://www.reddit.com/user/eric-schaefer) &mdash;
 [Stack Overflow](https://stackoverflow.com/users/8976/ericschaefer) &mdash;
 [Twitter](https://twitter.com/Eric_Schaefer) &mdash;
 [Xing](https://www.xing.com/profile/EricAlexander_Schaefer)
